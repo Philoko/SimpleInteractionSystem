@@ -6,7 +6,7 @@ using UnityEngine;
 namespace SimpleInteractionSystem.Editor
 {
     /// Based on: https://forum.unity.com/threads/editor-script-to-set-icons-impossible.187975/
-    internal class InteractionClassIconSetter : AssetPostprocessor
+    internal class InteractionClassIconSetter
     {
         private static MethodInfo s_setIconForObject =
             typeof(EditorGUIUtility).GetMethod("SetIconForObject", BindingFlags.Static | BindingFlags.NonPublic);
