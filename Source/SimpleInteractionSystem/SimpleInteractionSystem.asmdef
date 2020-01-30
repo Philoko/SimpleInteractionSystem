@@ -1,0 +1,14 @@
+{
+    "name": "SimpleInteractionSystem",
+    "references": [
+        "VFW"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": []
+}
