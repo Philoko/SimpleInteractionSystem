@@ -16,6 +16,7 @@
 
 # Visual Studio cache directory
 .vs/
+.vsconfig
 
 # Jetbrains stuff
 .idea
@@ -68,5 +69,6 @@ crashlytics-build.properties
 # OTHER
 .DS_STORE
 
-# Unity 3D project settings
+# Unity 3D settings
 ProjectSettings
+UserSettings
